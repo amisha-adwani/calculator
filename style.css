@@ -1,0 +1,58 @@
+.container{
+  
+    justify-content: center;
+ 
+    background-color:rgb(235, 247, 247);
+    text-align: center;
+    height: 460px;
+    width: 550px;
+    border-radius: 3px;
+    margin: auto;
+    width: 530px;
+ 
+}
+table { 
+    align-self: center;
+    box-align: center;                     
+    font-size: 3px;
+    margin: auto;
+    position: absolute;
+}
+td{
+    padding: 5px;
+ 
+}
+tr{
+    position: relative;
+}
+
+
+input {
+    border: 5px solid;
+    border-color: rgb(136, 143, 202);
+    font-size: 20px;
+    height: 50px;
+    width: 490px;
+    margin: auto;
+ 
+    
+}
+
+button {
+    background-color: rgb(160, 165, 224);
+    font-size: 30px;
+    height: 52px;
+    width: 118px;
+    margin: 0px05px;
+    border-radius: 9px;
+    color: teal;
+    transition-duration: 1s;
+    position: relative;
+   
+}
+    button:hover{
+        transform: scaleX(1.5);
+        transform: scaleY(1.2);
+    
+     }
+    
